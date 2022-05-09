@@ -61,6 +61,7 @@ http://localhost:3000
 
 - HTML
 - CSS
+- JavaScript
 - React
 - Redux
 - Material UI
@@ -113,6 +114,35 @@ https://drive.google.com/file/d/1RCGqPF7n-URceIhuIJSU2JGvPA718BOn/view?usp=shari
 
 > <a href="https://rahul-rathor-portfolio.vercel.app/" target="_blank">Portfolio</a>
 
+<b>Dnyaneshwar Magar</b>
+
+> <a href="https://github.com/dnyaneshwarmagar" target="_blank">Github</a>
+
+> <a href="https://www.linkedin.com/in/dnyaneshm/" target="_blank">Linkedin</a>
+
+> <a href="https://medium.com/@dnyaneshwarmagar276" target="_blank">Blog</a>
+
+> <a href="https://dnyaneshm-portfolio.vercel.app/" target="_blank">Portfolio</a>
+
+<b>Tarun Kumawat</b>
+
+> <a href="https://github.com/tarun10001" target="_blank">Github</a>
+
+> <a href="https://www.linkedin.com/in/tarun-kumawat/" target="_blank">Linkedin</a>
+
+> <a href="https://medium.com/@tarunkumawat1994" target="_blank">Blog</a>
+
+> <a href="https://tarun-kumawat-portfolio.netlify.app/" target="_blank">Portfolio</a>
+
+<b>MAHESH JANGID</b>
+
+> <a href="https://github.com/mahesh-jangid" target="_blank">Github</a>
+
+> <a href="https://www.linkedin.com/in/mahesh-jangid-a23479233/" target="_blank">Linkedin</a>
+
+> <a href="" target="_blank">Blog</a>
+
+> <a href="https://mahesh-jangid-portfolio.vercel.app/" target="_blank">Portfolio</a>
 
 
 ### <u>You can read more about our project on our blog : <a href="https://medium.com/@www.rahulr41180/journey-of-cloning-of-the-website-overstock-1d22f190f56b" target="_blank">Clone of Overstock.com</a> </u>
