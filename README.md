@@ -115,7 +115,7 @@ https://drive.google.com/file/d/1RCGqPF7n-URceIhuIJSU2JGvPA718BOn/view?usp=shari
 
 
 
-### <u>You can read more about our project on our blog : <a href="https://medium.com/@www.rahulr41180/journey-of-cloning-of-the-website-overstock-1d22f190f56b" target="_blank">Clone of beminimalist.co</a> </u>
+### <u>You can read more about our project on our blog : <a href="https://medium.com/@www.rahulr41180/journey-of-cloning-of-the-website-overstock-1d22f190f56b" target="_blank">Clone of Overstock.com</a> </u>
 
 
 # Thank You :sparkling_heart:
